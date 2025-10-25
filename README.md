@@ -5,7 +5,6 @@
 
 ---
 
-
 ## 🧠 About This Project
 
 **Unity 2D Minigame Collection** is a personal learning project focused on exploring different gameplay mechanics in Unity.  
@@ -35,11 +34,11 @@ This project is designed as a **learning playground** — perfect for beginners 
 
 ## ✨ Features
 
-- 🎨 Clean and lightweight 2D graphics  
-- 🧩 Each mini-game in its own Unity Scene  
-- 📱 Supports multiple platforms (Windows, Android, WebGL, etc.)  
-- 🎵 Basic sounds and animations  
-- ⚙️ Easy to modify or extend for learning projects  
+- Clean and lightweight 2D graphics  
+- Each mini-game in its own Unity Scene  
+- Supports multiple platforms (Windows, Android, WebGL, etc.)  
+- Basic sounds and animations  
+- Easy to modify or extend for learning projects  
 
 ---
 
@@ -60,8 +59,3 @@ The latest builds are available in the **[Releases](https://github.com/dat514/Mi
  
 - **Windows:** Download .msi file and install launcher -> open launcher -> select folder -> press download button -> play
 - **Android:** Download APK file and install -> play
-     
-
-
-
-
