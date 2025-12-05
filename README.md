@@ -1,4 +1,8 @@
-# 🎮 Unity 2D Minigame Collection
+# Unity 2D Minigame Collection
+![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black.svg?style=flat&logo=unity)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20WebGL-blue.svg)
+![Games](https://img.shields.io/badge/minigames-4%20%2B%20more%20coming-brightgreen.svg)
 
 > A collection of fun and simple **2D mini-games** made with **Unity** — built for learning, practice, and creativity!  
 > Includes classics like **Snake**, **Suika Game**, **Dino Run**, **Gacha Simulator**, and more!
